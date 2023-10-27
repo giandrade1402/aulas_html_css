@@ -1,7 +1,26 @@
-h2{
-    color: darkviolet;
+h2 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: blueviolet;
+    font-size: 40px;
 }
 
 p {
-    color: steelblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+
+}
+vermelho {
+color: red
+}
+
+.texto_grande {
+    font-size: 60px;
+}
+
+#titulo_h2 {
+    background-color: pink;
+}
+
+#titulo_h2-1 {
+background-color: greenyellow;
 }
